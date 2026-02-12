@@ -6,26 +6,23 @@ Designed and executed a full data analytics pipeline analyzing 3,900+ customer t
 
 🚀 What I Did:
 
-Cleaned and transformed raw data using Python
+1-Cleaned and transformed raw data using Python
+2-Handled missing values and performed feature engineering
+3-Loaded cleaned data into MySQL
+4-Wrote advanced SQL queries for business analysis
+5-Built an interactive Power BI dashboard for visualization
+6-Performed customer segmentation (New, Returning, Loyal)
+📌 Key Findings:
 
-Handled missing values and performed feature engineering
-
-Loaded cleaned data into MySQL
-
-Wrote advanced SQL queries for business analysis
-
-Built an interactive Power BI dashboard for visualization
-
-Performed customer segmentation (New, Returning, Loyal)
+1-Clothing category generated the highest revenue.
+2-Loyal customers significantly increase lifetime value.
+3-Subscription users spend more on average.
+4-Shipping type impacts purchase value.
+5-Discount-driven products affect profit strategy.
 
 🚀 Business Impact
-
-The insights help improve:
-
-Customer retention strategies
-
-Subscription growth
-
-Inventory planning
-
-Revenue optimization
+1-The insights help improve:
+2-Customer retention strategies
+3-Subscription growth
+4-Inventory planning
+5-Revenue optimization
